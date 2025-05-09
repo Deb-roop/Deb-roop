@@ -5,8 +5,9 @@ My name is Debroop Ghosh Dostider
 Welcome to my GitHub profile! I'm passionate about building practical tools, sourcing smart tech products, and exploring how human resource technologies can enhance business operations. I'm currently working on various small projects while learning and growing in the areas of:
 
 - 🖥️ Electronics & Embedded Systems
-- 💼 HR Tools & Productivity Apps
-- 🌐 Web Content Management & Visual Design
+- 🖥️ Web development
+- 🧰 AI and Machine Learning
+  
 
 ---
 ## 🛠️ Tech Stack
