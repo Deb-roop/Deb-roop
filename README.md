@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Debroop Ghosh Dostider 
-🚀Electronics and Communication Engineering Student |Undergrad 1st year @KUET 2023 | Web development enthusiast | AI enthusiast | ML enthusiast | Embedded system enthusiast |
+<br>🚀Electronics and Communication Engineering Student |Undergrad 1st year @KUET 2023 | Web development enthusiast | AI enthusiast | ML enthusiast | Embedded system enthusiast |<br>
 
 Welcome to my GitHub profile! I'm passionate about building practical tools, sourcing smart tech products, and exploring how human resource technologies can enhance business operations. I'm currently working on various small projects while learning and growing in the areas of:
 
