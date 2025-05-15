@@ -21,7 +21,11 @@ Welcome to my GitHub profile! I'm passionate about building practical tools, sou
 
 | Project | Description |
 |--------|-------------|
-| **Smart Object Counter** | A basic IoT prototype to count Products in manufacturing factory using Arduino + C . |
+| **Smart Object Counter** | A basic IoT prototype to count Products in manufacturing factory
+using Arduino + C . |
+| **Arduino-Based Obstacle-Detecting Train Prototype ** | a Arduino-based train that **automatically stops** when it detects an obstacle within a specific range (3 cm to 15 cm), then resumes movement once the path is clear.
+using Arduino + C . |
+
 
 ## 📫 Let's Connect
 
