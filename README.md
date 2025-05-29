@@ -27,6 +27,9 @@ Welcome to my GitHub profile! I'm passionate about building practical tools, sou
 using Arduino + C . |
 | **Arduino-Based Obstacle-Detecting Train Prototype ** | a Arduino-based train that **automatically stops** when it detects an obstacle within a specific range (3 cm to 15 cm), then resumes movement once the path is clear.
 using Arduino + C . |
+| **A Smart Automated Medicine Vending Machine ** | This machine is designed to dispense basic medicines automatically upon user input and prints a digital prescription slip before providing the medication — ensuring both accessibility and accountability in healthcare delivery.
+using Arduino Mega + C . |
+
 
 
 ## 📫 Let's Connect
